@@ -1,6 +1,7 @@
 ![logo](https://github.com/JosefNoniyar/JosefNoniyar/blob/main/MrMayankHackerX.jpg)
 
-<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&duration=2500&pause=500&color=FFFFFF&random=false&width=315&height=65&lines=Hello+Friends+%F0%9F%91%8B%2C+I+Am;Mr+Mayank+Hacker+X" alt="Typing SVG" /></a>
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Oswald&size=30&duration=2500&pause=500&color=FFFFFF&center=true&vCenter=true&random=false&width=415&height=75&lines=Hello+Friends+%F0%9F%91%8B;I+Am+;Mr+Mayank+Hacker+X+)](https://git.io/typing-svg)
+
 <h3 align="center">A Passionate Software Developer From India</h3>
 
 <p align="left"> <img alt="Coder GIF" height=50% width=100% src="https://camo.githubusercontent.com/7de37139d0b4c1ce40865e799b446c0e963a3dd8fb68d239707237c40604fa3d/68747470733a2f2f63646e2e6472696262626c652e636f6d2f75736572732f3733303730332f73637265656e73686f74732f363538313234332f6176656e746f2e676966"/> </p>
